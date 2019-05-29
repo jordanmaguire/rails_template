@@ -16,4 +16,6 @@
 //= require jquery3
 //= require popper
 //= require bootstrap-sprockets
+//= require active_storage_drag_and_drop
 //= require_tree .
+

@@ -13,6 +13,7 @@ gem "uglifier", ">= 1.3.0"
 
 gem "bootsnap", ">= 1.1.0", require: false
 
+gem "active_storage_drag_and_drop"
 gem "bootstrap"
 gem "devise"
 gem "jquery-rails"
